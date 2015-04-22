@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
+#send txt mail
 
 import smtplib
 import getpass
